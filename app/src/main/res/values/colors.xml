@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="red">#FF0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="app_theme">#9F0026</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="transperent">#80000000</color>
+    <color name="product_name_color">#FEAD2A</color>
+    <color name="screen_bg">#F1F1F1</color>
+    <color name="font_color">#9F0026</color>
+    <color name="des_font">#A7A5A6</color>
+    <color name="view_bg">#E5E5E5</color>
+    <color name="light_gray">#EAEAEA</color>
+    <color name="splash_bg">#9E0025</color>
+
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
